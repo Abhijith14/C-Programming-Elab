@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://github.com/Abhijith14/C-Programming-Elab" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Abhijith14/C-Programming-Elab/blob/main/readme_assets/logo.png" alt="re-frame logo"></a></p>
+<p align="center"><a href="https://github.com/Abhijith14/C-Programming-Elab" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Abhijith14/C-Programming-Elab/master/readme_assets/logo.png" alt="re-frame logo"></a></p>
 
 ## C Elab Solutions
 
